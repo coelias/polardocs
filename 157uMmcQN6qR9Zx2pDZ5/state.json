@@ -8,21 +8,26 @@
     "properties": {},
     "archived": false,
     "flagged": false,
-    "tags": {},
+    "tags": {
+      "clojure": {
+        "id": "clojure",
+        "label": "clojure"
+      }
+    },
     "nrPages": 1,
     "fingerprint": "157uMmcQN6qR9Zx2pDZ5",
     "added": "2018-11-27T23:41:27.059Z",
     "filename": "12dqVSDcWE-re_frame_EffectfulHandlers_md_at_master___Day8_re_frame___GitHub.phz",
-    "uuid": "9bead360-f29f-11e8-9707-9b0f21f099eb",
-    "lastUpdated": "2018-11-27T23:53:16.438Z",
-    "nrComments": 0,
-    "nrNotes": 0,
-    "nrFlashcards": 0,
-    "nrTextHighlights": 29,
+    "lastUpdated": "2018-11-28T23:59:14.338Z",
+    "nrAnnotations": 75,
     "nrAreaHighlights": 0,
-    "nrAnnotations": 29,
-    "title": "re-frame/EffectfulHandlers.md at master · Day8/re-frame · GitHub",
-    "url": "https://github.com/Day8/re-frame/blob/master/docs/EffectfulHandlers.md"
+    "nrComments": 0,
+    "nrFlashcards": 0,
+    "nrNotes": 0,
+    "nrTextHighlights": 75,
+    "title": "re-frame: EffectfulHandlers",
+    "url": "https://github.com/Day8/re-frame/blob/master/docs/EffectfulHandlers.md",
+    "uuid": "9ba7c820-f369-11e8-bf15-1731459decd0"
   },
   "pageMetas": {
     "1": {
@@ -1726,6 +1731,2285 @@
               "src": "screenshot:12ZmJqfViA",
               "width": 678,
               "height": 40,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12Q99LpKGg": {
+          "id": "12Q99LpKGg",
+          "guid": "12Q99LpKGg",
+          "created": "2018-11-28T23:15:06.259Z",
+          "lastUpdated": "2018-11-28T23:15:06.259Z",
+          "rects": {
+            "0": {
+              "left": 178.453125,
+              "top": 2891,
+              "right": 549.859375,
+              "bottom": 2909,
+              "width": 371.40625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "10% of your event handlers have effects and coeffects",
+              "rect": {
+                "left": 178.453125,
+                "top": 2891,
+                "right": 549.859375,
+                "bottom": 2909,
+                "width": 371.40625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "10% of your event handlers have effects and coeffects"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:125iGhV81R",
+              "width": 372,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12gJGnnvyz": {
+          "id": "12gJGnnvyz",
+          "guid": "12gJGnnvyz",
+          "created": "2018-11-28T23:15:27.809Z",
+          "lastUpdated": "2018-11-28T23:15:27.809Z",
+          "rects": {
+            "0": {
+              "left": 541.890625,
+              "top": 2929,
+              "right": 709.4375,
+              "bottom": 2947,
+              "width": 167.546875,
+              "height": 18
+            },
+            "1": {
+              "left": 15,
+              "top": 2951,
+              "right": 526.84375,
+              "bottom": 2969,
+              "width": 511.84375,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "dealing with the outside, ",
+              "rect": {
+                "left": 541.890625,
+                "top": 2929,
+                "right": 709.4375,
+                "bottom": 2947,
+                "width": 167.546875,
+                "height": 18
+              }
+            },
+            "1": {
+              "text": "mutative world of servers, databases,\nwindow.location, LocalStore, cookies",
+              "rect": {
+                "left": 15,
+                "top": 2951,
+                "right": 526.84375,
+                "bottom": 2969,
+                "width": 511.84375,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "dealing with the outside, mutative world of servers, databases, window.location, LocalStore, cookies"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12aiESHRBn",
+              "width": 694,
+              "height": 40,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1cpSJnsK7j": {
+          "id": "1cpSJnsK7j",
+          "guid": "1cpSJnsK7j",
+          "created": "2018-11-28T23:16:16.861Z",
+          "lastUpdated": "2018-11-28T23:16:16.861Z",
+          "rects": {
+            "0": {
+              "left": 296.25,
+              "top": 3071,
+              "right": 404.28125,
+              "bottom": 3089,
+              "width": 108.03125,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "do side-effects",
+              "rect": {
+                "left": 296.25,
+                "top": 3071,
+                "right": 404.28125,
+                "bottom": 3089,
+                "width": 108.03125,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "do side-effects"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12RjuHihk7",
+              "width": 108,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1vf2K6akuw": {
+          "id": "1vf2K6akuw",
+          "guid": "1vf2K6akuw",
+          "created": "2018-11-28T23:16:22.117Z",
+          "lastUpdated": "2018-11-28T23:16:22.117Z",
+          "rects": {
+            "0": {
+              "left": 15,
+              "top": 3071,
+              "right": 83.109375,
+              "bottom": 3089,
+              "width": 68.109375,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Instead of",
+              "rect": {
+                "left": 15,
+                "top": 3071,
+                "right": 83.109375,
+                "bottom": 3089,
+                "width": 68.109375,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "Instead of"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1FPFnws4Z7",
+              "width": 68,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1LN2SxJLv9": {
+          "id": "1LN2SxJLv9",
+          "guid": "1LN2SxJLv9",
+          "created": "2018-11-28T23:16:27.167Z",
+          "lastUpdated": "2018-11-28T23:16:27.167Z",
+          "rects": {
+            "0": {
+              "left": 412.46875,
+              "top": 3071,
+              "right": 442.53125,
+              "bottom": 3089,
+              "width": 30.0625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "we'll",
+              "rect": {
+                "left": 412.46875,
+                "top": 3071,
+                "right": 442.53125,
+                "bottom": 3089,
+                "width": 30.0625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "we'll"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12ACfR46XA",
+              "width": 31,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12ftLzafk5": {
+          "id": "12ftLzafk5",
+          "guid": "12ftLzafk5",
+          "created": "2018-11-28T23:16:30.267Z",
+          "lastUpdated": "2018-11-28T23:16:30.267Z",
+          "rects": {
+            "0": {
+              "left": 583.734375,
+              "top": 3071,
+              "right": 715.25,
+              "bottom": 3089,
+              "width": 131.515625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "cause side-effects",
+              "rect": {
+                "left": 583.734375,
+                "top": 3071,
+                "right": 715.25,
+                "bottom": 3089,
+                "width": 131.515625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "cause side-effects"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12vZq2Mz4B",
+              "width": 131,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12H3S2p3ZC": {
+          "id": "12H3S2p3ZC",
+          "guid": "12H3S2p3ZC",
+          "created": "2018-11-28T23:16:48.551Z",
+          "lastUpdated": "2018-11-28T23:16:48.551Z",
+          "rects": {
+            "0": {
+              "left": 15,
+              "top": 3314,
+              "right": 70.3125,
+              "bottom": 3332,
+              "width": 55.3125,
+              "height": 18
+            },
+            "1": {
+              "left": 75.3125,
+              "top": 3317,
+              "right": 90.609375,
+              "bottom": 3332,
+              "width": 15.296875,
+              "height": 15
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Takes a ",
+              "rect": {
+                "left": 15,
+                "top": 3314,
+                "right": 70.3125,
+                "bottom": 3332,
+                "width": 55.3125,
+                "height": 18
+              }
+            },
+            "1": {
+              "text": "db",
+              "rect": {
+                "left": 75.3125,
+                "top": 3317,
+                "right": 90.609375,
+                "bottom": 3332,
+                "width": 15.296875,
+                "height": 15
+              }
+            }
+          },
+          "text": {
+            "TEXT": "Takes a db"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1zshe227ed",
+              "width": 75,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12gcuwLrcG": {
+          "id": "12gcuwLrcG",
+          "guid": "12gcuwLrcG",
+          "created": "2018-11-28T23:16:51.879Z",
+          "lastUpdated": "2018-11-28T23:16:51.879Z",
+          "rects": {
+            "0": {
+              "left": 245.5,
+              "top": 3314,
+              "right": 310.625,
+              "bottom": 3332,
+              "width": 65.125,
+              "height": 18
+            },
+            "1": {
+              "left": 315.625,
+              "top": 3317,
+              "right": 330.921875,
+              "bottom": 3332,
+              "width": 15.296875,
+              "height": 15
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "returns a ",
+              "rect": {
+                "left": 245.5,
+                "top": 3314,
+                "right": 310.625,
+                "bottom": 3332,
+                "width": 65.125,
+                "height": 18
+              }
+            },
+            "1": {
+              "text": "db",
+              "rect": {
+                "left": 315.625,
+                "top": 3317,
+                "right": 330.921875,
+                "bottom": 3332,
+                "width": 15.296875,
+                "height": 15
+              }
+            }
+          },
+          "text": {
+            "TEXT": "returns a db"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12FaK8BfEV",
+              "width": 84,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1h9mDsP1Me": {
+          "id": "1h9mDsP1Me",
+          "guid": "1h9mDsP1Me",
+          "created": "2018-11-28T23:16:55.275Z",
+          "lastUpdated": "2018-11-28T23:16:55.275Z",
+          "rects": {
+            "0": {
+              "left": 550.25,
+              "top": 3314,
+              "right": 662.078125,
+              "bottom": 3332,
+              "width": 111.828125,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Yep, that's Pure!",
+              "rect": {
+                "left": 550.25,
+                "top": 3314,
+                "right": 662.078125,
+                "bottom": 3332,
+                "width": 111.828125,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "Yep, that's Pure!"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1qnuE9xXRk",
+              "width": 112,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1nPKpeVkQs": {
+          "id": "1nPKpeVkQs",
+          "guid": "1nPKpeVkQs",
+          "created": "2018-11-28T23:17:01.593Z",
+          "lastUpdated": "2018-11-28T23:17:01.593Z",
+          "rects": {
+            "0": {
+              "left": 149.6875,
+              "top": 3156,
+              "right": 322.171875,
+              "bottom": 3174,
+              "width": 172.484375,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "this event handler is pure",
+              "rect": {
+                "left": 149.6875,
+                "top": 3156,
+                "right": 322.171875,
+                "bottom": 3174,
+                "width": 172.484375,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "this event handler is pure"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1eEoA1MujB",
+              "width": 172,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "121hTwWnpB": {
+          "id": "121hTwWnpB",
+          "guid": "121hTwWnpB",
+          "created": "2018-11-28T23:17:18.892Z",
+          "lastUpdated": "2018-11-28T23:17:18.892Z",
+          "rects": {
+            "0": {
+              "left": 388.859375,
+              "top": 3352,
+              "right": 707.15625,
+              "bottom": 3370,
+              "width": 318.296875,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "re-frame is doing\nthe necessary side-effecting",
+              "rect": {
+                "left": 388.859375,
+                "top": 3352,
+                "right": 707.15625,
+                "bottom": 3370,
+                "width": 318.296875,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "re-frame is doing the necessary side-effecting"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12EHeCikxe",
+              "width": 318,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1kwvN9zn18": {
+          "id": "1kwvN9zn18",
+          "guid": "1kwvN9zn18",
+          "created": "2018-11-28T23:17:49.114Z",
+          "lastUpdated": "2018-11-28T23:17:49.114Z",
+          "rects": {
+            "0": {
+              "left": 44.53125,
+              "top": 3795,
+              "right": 313.078125,
+              "bottom": 3813,
+              "width": 268.546875,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Reagent/React mutates the DOM for us",
+              "rect": {
+                "left": 44.53125,
+                "top": 3795,
+                "right": 313.078125,
+                "bottom": 3813,
+                "width": 268.546875,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "Reagent/React mutates the DOM for us"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12hqa9AvkK",
+              "width": 268,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1EchDWmPyK": {
+          "id": "1EchDWmPyK",
+          "guid": "1EchDWmPyK",
+          "created": "2018-11-28T23:18:07.259Z",
+          "lastUpdated": "2018-11-28T23:18:07.259Z",
+          "rects": {
+            "0": {
+              "left": 182.109375,
+              "top": 3883,
+              "right": 228.015625,
+              "bottom": 3898,
+              "width": 45.90625,
+              "height": 15
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "say-hi",
+              "rect": {
+                "left": 182.109375,
+                "top": 3883,
+                "right": 228.015625,
+                "bottom": 3898,
+                "width": 45.90625,
+                "height": 15
+              }
+            }
+          },
+          "text": {
+            "TEXT": "say-hi"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1oQhYscr5o",
+              "width": 45,
+              "height": 15,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12CMEwNFp1": {
+          "id": "12CMEwNFp1",
+          "guid": "12CMEwNFp1",
+          "created": "2018-11-28T23:18:11.127Z",
+          "lastUpdated": "2018-11-28T23:18:11.127Z",
+          "rects": {
+            "0": {
+              "left": 568.171875,
+              "top": 3880,
+              "right": 699.328125,
+              "bottom": 3898,
+              "width": 131.15625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "it is a pure function",
+              "rect": {
+                "left": 568.171875,
+                "top": 3880,
+                "right": 699.328125,
+                "bottom": 3898,
+                "width": 131.15625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "it is a pure function "
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:129Q5NMU27",
+              "width": 131,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12HYpBmYxC": {
+          "id": "12HYpBmYxC",
+          "guid": "12HYpBmYxC",
+          "created": "2018-11-28T23:18:15.495Z",
+          "lastUpdated": "2018-11-28T23:18:15.495Z",
+          "rects": {
+            "0": {
+              "left": 59.328125,
+              "top": 3902,
+              "right": 420.390625,
+              "bottom": 3920,
+              "width": 361.0625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "returns a description\nof the side-effects required",
+              "rect": {
+                "left": 59.328125,
+                "top": 3902,
+                "right": 420.390625,
+                "bottom": 3920,
+                "width": 361.0625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "returns a description of the side-effects required"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1cnqXaEWWJ",
+              "width": 361,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "19wbLFBuHD": {
+          "id": "19wbLFBuHD",
+          "guid": "19wbLFBuHD",
+          "created": "2018-11-28T23:18:22.059Z",
+          "lastUpdated": "2018-11-28T23:18:22.059Z",
+          "rects": {
+            "0": {
+              "left": 121.046875,
+              "top": 3940,
+              "right": 292.046875,
+              "bottom": 3958,
+              "width": 171,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "description is declarative",
+              "rect": {
+                "left": 121.046875,
+                "top": 3940,
+                "right": 292.046875,
+                "bottom": 3958,
+                "width": 171,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "description is declarative"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1dRDBgSWY7",
+              "width": 171,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1cChwBwDvW": {
+          "id": "1cChwBwDvW",
+          "guid": "1cChwBwDvW",
+          "created": "2018-11-28T23:18:33.917Z",
+          "lastUpdated": "2018-11-28T23:18:33.917Z",
+          "rects": {
+            "0": {
+              "left": 130.109375,
+              "top": 3978,
+              "right": 184.671875,
+              "bottom": 3996,
+              "width": 54.5625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "t is data",
+              "rect": {
+                "left": 130.109375,
+                "top": 3978,
+                "right": 184.671875,
+                "bottom": 3996,
+                "width": 54.5625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "t is data"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12td8Q1esr",
+              "width": 55,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12X2c5s5uy": {
+          "id": "12X2c5s5uy",
+          "guid": "12X2c5s5uy",
+          "created": "2018-11-28T23:18:37.416Z",
+          "lastUpdated": "2018-11-28T23:18:37.416Z",
+          "rects": {
+            "0": {
+              "left": 126.65625,
+              "top": 3978,
+              "right": 130.109375,
+              "bottom": 3996,
+              "width": 3.453125,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "i",
+              "rect": {
+                "left": 126.65625,
+                "top": 3978,
+                "right": 130.109375,
+                "bottom": 3996,
+                "width": 3.453125,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "i"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12GaEMFRXW",
+              "width": 3,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12gNdYvb5N": {
+          "id": "12gNdYvb5N",
+          "guid": "12gNdYvb5N",
+          "created": "2018-11-28T23:18:44.988Z",
+          "lastUpdated": "2018-11-28T23:18:44.988Z",
+          "rects": {
+            "0": {
+              "left": 15,
+              "top": 4016,
+              "right": 231.328125,
+              "bottom": 4034,
+              "width": 216.328125,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "This is a big, important concept",
+              "rect": {
+                "left": 15,
+                "top": 4016,
+                "right": 231.328125,
+                "bottom": 4034,
+                "width": 216.328125,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "This is a big, important concept"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12ox2js4EL",
+              "width": 216,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "19DRXiCMkC": {
+          "id": "19DRXiCMkC",
+          "guid": "19DRXiCMkC",
+          "created": "2018-11-28T23:18:57.797Z",
+          "lastUpdated": "2018-11-28T23:18:57.797Z",
+          "rects": {
+            "0": {
+              "left": 281.8125,
+              "top": 4016,
+              "right": 578.15625,
+              "bottom": 4034,
+              "width": 296.34375,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "we can't get away from certain side-effects",
+              "rect": {
+                "left": 281.8125,
+                "top": 4016,
+                "right": 578.15625,
+                "bottom": 4034,
+                "width": 296.34375,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "we can't get away from certain side-effects"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12tw5KNoyv",
+              "width": 296,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "121BFP8mi2": {
+          "id": "121BFP8mi2",
+          "guid": "121BFP8mi2",
+          "created": "2018-11-28T23:19:06.340Z",
+          "lastUpdated": "2018-11-28T23:19:06.340Z",
+          "rects": {
+            "0": {
+              "left": 586.359375,
+              "top": 4016,
+              "right": 634.5,
+              "bottom": 4034,
+              "width": 48.140625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "we can",
+              "rect": {
+                "left": 586.359375,
+                "top": 4016,
+                "right": 634.5,
+                "bottom": 4034,
+                "width": 48.140625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "we can"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12MDHuy8QT",
+              "width": 49,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1LBY7t3DBU": {
+          "id": "1LBY7t3DBU",
+          "guid": "1LBY7t3DBU",
+          "created": "2018-11-28T23:19:11.863Z",
+          "lastUpdated": "2018-11-28T23:19:11.863Z",
+          "rects": {
+            "0": {
+              "left": 203.359375,
+              "top": 4038,
+              "right": 522.8125,
+              "bottom": 4056,
+              "width": 319.453125,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "describe side-effects, declaratively, in data",
+              "rect": {
+                "left": 203.359375,
+                "top": 4038,
+                "right": 522.8125,
+                "bottom": 4056,
+                "width": 319.453125,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "describe side-effects, declaratively, in data"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1tMrNeUYuX",
+              "width": 319,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12kv33LtXj": {
+          "id": "12kv33LtXj",
+          "guid": "12kv33LtXj",
+          "created": "2018-11-28T23:21:27.207Z",
+          "lastUpdated": "2018-11-28T23:21:27.207Z",
+          "rects": {
+            "0": {
+              "left": 45,
+              "top": 4221,
+              "right": 513.859375,
+              "bottom": 4239,
+              "width": 468.859375,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Work out how event handlers can declaratively describe side-effects",
+              "rect": {
+                "left": 45,
+                "top": 4221,
+                "right": 513.859375,
+                "bottom": 4239,
+                "width": 468.859375,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "Work out how event handlers can declaratively describe side-effects"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1y5R4UBPt9",
+              "width": 469,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1HYMjFnMuo": {
+          "id": "1HYMjFnMuo",
+          "guid": "1HYMjFnMuo",
+          "created": "2018-11-28T23:21:35.625Z",
+          "lastUpdated": "2018-11-28T23:21:35.625Z",
+          "rects": {
+            "0": {
+              "left": 45,
+              "top": 4246.75,
+              "right": 467.015625,
+              "bottom": 4264.75,
+              "width": 422.015625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "Work out how re-frame can do the \"necessary side-effecting\"",
+              "rect": {
+                "left": 45,
+                "top": 4246.75,
+                "right": 467.015625,
+                "bottom": 4264.75,
+                "width": 422.015625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "Work out how re-frame can do the \"necessary side-effecting\""
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:18tHVUvgAo",
+              "width": 420,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1wUNXNdme5": {
+          "id": "1wUNXNdme5",
+          "guid": "1wUNXNdme5",
+          "created": "2018-11-28T23:22:15.792Z",
+          "lastUpdated": "2018-11-28T23:22:15.792Z",
+          "rects": {
+            "0": {
+              "left": 142.96875,
+              "top": 4369.75,
+              "right": 292.046875,
+              "bottom": 4387.75,
+              "width": 149.078125,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "side effecting handler",
+              "rect": {
+                "left": 142.96875,
+                "top": 4369.75,
+                "right": 292.046875,
+                "bottom": 4387.75,
+                "width": 149.078125,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "side effecting handler"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1tm1fQ1rTa",
+              "width": 149,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1tPwSuLo6G": {
+          "id": "1tPwSuLo6G",
+          "guid": "1tPwSuLo6G",
+          "created": "2018-11-28T23:22:20.389Z",
+          "lastUpdated": "2018-11-28T23:22:20.389Z",
+          "rects": {
+            "0": {
+              "left": 79.5625,
+              "top": 4545.75,
+              "right": 261.453125,
+              "bottom": 4563.75,
+              "width": 181.890625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "re-written so as to be pure",
+              "rect": {
+                "left": 79.5625,
+                "top": 4545.75,
+                "right": 261.453125,
+                "bottom": 4563.75,
+                "width": 181.890625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "re-written so as to be pure"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12PXkhxCTp",
+              "width": 181,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12eGbxRpx2": {
+          "id": "12eGbxRpx2",
+          "guid": "12eGbxRpx2",
+          "created": "2018-11-28T23:22:24.317Z",
+          "lastUpdated": "2018-11-28T23:22:24.317Z",
+          "rects": {
+            "0": {
+              "left": 38.640625,
+              "top": 4598.75,
+              "right": 130.453125,
+              "bottom": 4613.75,
+              "width": 91.8125,
+              "height": 15
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "reg-event-fx",
+              "rect": {
+                "left": 38.640625,
+                "top": 4598.75,
+                "right": 130.453125,
+                "bottom": 4613.75,
+                "width": 91.8125,
+                "height": 15
+              }
+            }
+          },
+          "text": {
+            "TEXT": "reg-event-fx"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1ef2x8MMkU",
+              "width": 91,
+              "height": 15,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "green"
+        },
+        "122bmWxQVo": {
+          "id": "122bmWxQVo",
+          "guid": "122bmWxQVo",
+          "created": "2018-11-28T23:22:27.816Z",
+          "lastUpdated": "2018-11-28T23:22:27.816Z",
+          "rects": {
+            "0": {
+              "left": 38.640625,
+              "top": 4422.75,
+              "right": 130.453125,
+              "bottom": 4437.75,
+              "width": 91.8125,
+              "height": 15
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "reg-event-db",
+              "rect": {
+                "left": 38.640625,
+                "top": 4422.75,
+                "right": 130.453125,
+                "bottom": 4437.75,
+                "width": 91.8125,
+                "height": 15
+              }
+            }
+          },
+          "text": {
+            "TEXT": "reg-event-db"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1ZgFbGuRRh",
+              "width": 91,
+              "height": 15,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "green"
+        },
+        "12YD6CvjrE": {
+          "id": "12YD6CvjrE",
+          "guid": "12YD6CvjrE",
+          "created": "2018-11-28T23:45:38.757Z",
+          "lastUpdated": "2018-11-28T23:45:38.757Z",
+          "rects": {
+            "0": {
+              "left": 47.484375,
+              "top": 4765.75,
+              "right": 174.984375,
+              "bottom": 4783.75,
+              "width": 127.5,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "the first parameter",
+              "rect": {
+                "left": 47.484375,
+                "top": 4765.75,
+                "right": 174.984375,
+                "bottom": 4783.75,
+                "width": 127.5,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "the first parameter"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1eg3cxRoUQ",
+              "width": 128,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1oKddpYFbQ": {
+          "id": "1oKddpYFbQ",
+          "guid": "1oKddpYFbQ",
+          "created": "2018-11-28T23:45:41.993Z",
+          "lastUpdated": "2018-11-28T23:45:41.993Z",
+          "rects": {
+            "0": {
+              "left": 341.28125,
+              "top": 4765.75,
+              "right": 394.703125,
+              "bottom": 4783.75,
+              "width": 53.421875,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "s a map",
+              "rect": {
+                "left": 341.28125,
+                "top": 4765.75,
+                "right": 394.703125,
+                "bottom": 4783.75,
+                "width": 53.421875,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "s a map"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1eKPt9Gj79",
+              "width": 54,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1B4NBdNvz8": {
+          "id": "1B4NBdNvz8",
+          "guid": "1B4NBdNvz8",
+          "created": "2018-11-28T23:45:44.463Z",
+          "lastUpdated": "2018-11-28T23:45:44.463Z",
+          "rects": {
+            "0": {
+              "left": 333.828125,
+              "top": 4765.75,
+              "right": 341.28125,
+              "bottom": 4783.75,
+              "width": 7.453125,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": " i",
+              "rect": {
+                "left": 333.828125,
+                "top": 4765.75,
+                "right": 341.28125,
+                "bottom": 4783.75,
+                "width": 7.453125,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": " i"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1SVsDXiuB9",
+              "width": 7,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "126nuZR2nq": {
+          "id": "126nuZR2nq",
+          "guid": "126nuZR2nq",
+          "created": "2018-11-28T23:46:04.895Z",
+          "lastUpdated": "2018-11-28T23:46:04.895Z",
+          "rects": {
+            "0": {
+              "left": 148.75,
+              "top": 4809.75,
+              "right": 599.75,
+              "bottom": 4827.75,
+              "width": 451,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "returning a data structure (map) which describes two side-effects",
+              "rect": {
+                "left": 148.75,
+                "top": 4809.75,
+                "right": 599.75,
+                "bottom": 4827.75,
+                "width": 451,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "returning a data structure (map) which describes two side-effects"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1Fp9ZvJQQ5",
+              "width": 451,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1UVhhAeDn6": {
+          "id": "1UVhhAeDn6",
+          "guid": "1UVhhAeDn6",
+          "created": "2018-11-28T23:46:18.461Z",
+          "lastUpdated": "2018-11-28T23:46:18.461Z",
+          "rects": {
+            "0": {
+              "left": 45,
+              "top": 4847.75,
+              "right": 242.515625,
+              "bottom": 4865.75,
+              "width": 197.515625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "a change to application state",
+              "rect": {
+                "left": 45,
+                "top": 4847.75,
+                "right": 242.515625,
+                "bottom": 4865.75,
+                "width": 197.515625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "a change to application state"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:164R4DGbdu",
+              "width": 198,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1zGrTo9vs7": {
+          "id": "1zGrTo9vs7",
+          "guid": "1zGrTo9vs7",
+          "created": "2018-11-28T23:46:21.959Z",
+          "lastUpdated": "2018-11-28T23:46:21.959Z",
+          "rects": {
+            "0": {
+              "left": 45,
+              "top": 4873.5,
+              "right": 146.234375,
+              "bottom": 4891.5,
+              "width": 101.234375,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "a further event",
+              "rect": {
+                "left": 45,
+                "top": 4873.5,
+                "right": 146.234375,
+                "bottom": 4891.5,
+                "width": 101.234375,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "a further event"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12Kxzi6hqL",
+              "width": 101,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12jXT9dEjf": {
+          "id": "12jXT9dEjf",
+          "guid": "12jXT9dEjf",
+          "created": "2018-11-28T23:46:32.889Z",
+          "lastUpdated": "2018-11-28T23:46:32.889Z",
+          "rects": {
+            "0": {
+              "left": 96.015625,
+              "top": 4911.5,
+              "right": 199.421875,
+              "bottom": 4929.5,
+              "width": 103.40625,
+              "height": 18
+            },
+            "1": {
+              "left": 199.421875,
+              "top": 4911.5,
+              "right": 222.625,
+              "bottom": 4929.5,
+              "width": 23.203125,
+              "height": 18
+            },
+            "2": {
+              "left": 222.625,
+              "top": 4911.5,
+              "right": 238.65625,
+              "bottom": 4929.5,
+              "width": 16.03125,
+              "height": 18
+            },
+            "3": {
+              "left": 243.65625,
+              "top": 4914.5,
+              "right": 304.859375,
+              "bottom": 4929.5,
+              "width": 61.203125,
+              "height": 15
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "mpure handler ",
+              "rect": {
+                "left": 96.015625,
+                "top": 4911.5,
+                "right": 199.421875,
+                "bottom": 4929.5,
+                "width": 103.40625,
+                "height": 18
+              }
+            },
+            "1": {
+              "text": "did",
+              "rect": {
+                "left": 199.421875,
+                "top": 4911.5,
+                "right": 222.625,
+                "bottom": 4929.5,
+                "width": 23.203125,
+                "height": 18
+              }
+            },
+            "2": {
+              "text": " a ",
+              "rect": {
+                "left": 222.625,
+                "top": 4911.5,
+                "right": 238.65625,
+                "bottom": 4929.5,
+                "width": 16.03125,
+                "height": 18
+              }
+            },
+            "3": {
+              "text": "dispatch",
+              "rect": {
+                "left": 243.65625,
+                "top": 4914.5,
+                "right": 304.859375,
+                "bottom": 4929.5,
+                "width": 61.203125,
+                "height": 15
+              }
+            }
+          },
+          "text": {
+            "TEXT": "mpure handler did a dispatch"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1q3uKgmqx9",
+              "width": 208,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1RRJAEcw67": {
+          "id": "1RRJAEcw67",
+          "guid": "1RRJAEcw67",
+          "created": "2018-11-28T23:46:37.546Z",
+          "lastUpdated": "2018-11-28T23:46:37.546Z",
+          "rects": {
+            "0": {
+              "left": 463.15625,
+              "top": 4911.5,
+              "right": 553.734375,
+              "bottom": 4929.5,
+              "width": 90.578125,
+              "height": 18
+            },
+            "1": {
+              "left": 553.734375,
+              "top": 4911.5,
+              "right": 627.359375,
+              "bottom": 4929.5,
+              "width": 73.625,
+              "height": 18
+            },
+            "2": {
+              "left": 627.359375,
+              "top": 4911.5,
+              "right": 643.390625,
+              "bottom": 4929.5,
+              "width": 16.03125,
+              "height": 18
+            },
+            "3": {
+              "left": 648.390625,
+              "top": 4914.5,
+              "right": 701.9375,
+              "bottom": 4929.5,
+              "width": 53.546875,
+              "height": 15
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "pure handler ",
+              "rect": {
+                "left": 463.15625,
+                "top": 4911.5,
+                "right": 553.734375,
+                "bottom": 4929.5,
+                "width": 90.578125,
+                "height": 18
+              }
+            },
+            "1": {
+              "text": "described",
+              "rect": {
+                "left": 553.734375,
+                "top": 4911.5,
+                "right": 627.359375,
+                "bottom": 4929.5,
+                "width": 73.625,
+                "height": 18
+              }
+            },
+            "2": {
+              "text": "\na ",
+              "rect": {
+                "left": 627.359375,
+                "top": 4911.5,
+                "right": 643.390625,
+                "bottom": 4929.5,
+                "width": 16.03125,
+                "height": 18
+              }
+            },
+            "3": {
+              "text": "dispatc",
+              "rect": {
+                "left": 648.390625,
+                "top": 4914.5,
+                "right": 701.9375,
+                "bottom": 4929.5,
+                "width": 53.546875,
+                "height": 15
+              }
+            }
+          },
+          "text": {
+            "TEXT": "pure handler described a dispatc"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12VXvMTG16",
+              "width": 239,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12b2Du2pgF": {
+          "id": "12b2Du2pgF",
+          "guid": "12b2Du2pgF",
+          "created": "2018-11-28T23:47:58.066Z",
+          "lastUpdated": "2018-11-28T23:47:58.066Z",
+          "rects": {
+            "0": {
+              "left": 147.265625,
+              "top": 5924.5,
+              "right": 170.21875,
+              "bottom": 5939.5,
+              "width": 22.953125,
+              "height": 15
+            },
+            "1": {
+              "left": 175.21875,
+              "top": 5921.5,
+              "right": 311.015625,
+              "bottom": 5939.5,
+              "width": 135.796875,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "-fx",
+              "rect": {
+                "left": 147.265625,
+                "top": 5924.5,
+                "right": 170.21875,
+                "bottom": 5939.5,
+                "width": 22.953125,
+                "height": 15
+              }
+            },
+            "1": {
+              "text": " form of registration",
+              "rect": {
+                "left": 175.21875,
+                "top": 5921.5,
+                "right": 311.015625,
+                "bottom": 5939.5,
+                "width": 135.796875,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "-fx form of registration"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1dTpZcvy8P",
+              "width": 163,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1qzPEPvQit": {
+          "id": "1qzPEPvQit",
+          "guid": "1qzPEPvQit",
+          "created": "2018-11-28T23:48:04.314Z",
+          "lastUpdated": "2018-11-28T23:48:04.314Z",
+          "rects": {
+            "0": {
+              "left": 345.453125,
+              "top": 5921.5,
+              "right": 441.796875,
+              "bottom": 5939.5,
+              "width": 96.34375,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "first argument",
+              "rect": {
+                "left": 345.453125,
+                "top": 5921.5,
+                "right": 441.796875,
+                "bottom": 5939.5,
+                "width": 96.34375,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "first argument"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:122wyxtCEP",
+              "width": 97,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12tFdZjcss": {
+          "id": "12tFdZjcss",
+          "guid": "12tFdZjcss",
+          "created": "2018-11-28T23:48:08.181Z",
+          "lastUpdated": "2018-11-28T23:48:08.181Z",
+          "rects": {
+            "0": {
+              "left": 553.421875,
+              "top": 5921.5,
+              "right": 596.65625,
+              "bottom": 5939.5,
+              "width": 43.234375,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "will be",
+              "rect": {
+                "left": 553.421875,
+                "top": 5921.5,
+                "right": 596.65625,
+                "bottom": 5939.5,
+                "width": 43.234375,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "will be"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1ZojkSf6hx",
+              "width": 44,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1KTx8fjqMZ": {
+          "id": "1KTx8fjqMZ",
+          "guid": "1KTx8fjqMZ",
+          "created": "2018-11-28T23:48:13.144Z",
+          "lastUpdated": "2018-11-28T23:48:13.144Z",
+          "rects": {
+            "0": {
+              "left": 600.640625,
+              "top": 5921.5,
+              "right": 728.765625,
+              "bottom": 5939.5,
+              "width": 128.125,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "a map of coeffects",
+              "rect": {
+                "left": 600.640625,
+                "top": 5921.5,
+                "right": 728.765625,
+                "bottom": 5939.5,
+                "width": 128.125,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "a map of coeffects "
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12MoYwtSof",
+              "width": 127,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "13acpNt6Yp": {
+          "id": "13acpNt6Yp",
+          "guid": "13acpNt6Yp",
+          "created": "2018-11-28T23:48:28.685Z",
+          "lastUpdated": "2018-11-28T23:48:28.685Z",
+          "rects": {
+            "0": {
+              "left": 143.4375,
+              "top": 5981.5,
+              "right": 328.875,
+              "bottom": 5999.5,
+              "width": 185.4375,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "the complete set of \"inputs",
+              "rect": {
+                "left": 143.4375,
+                "top": 5981.5,
+                "right": 328.875,
+                "bottom": 5999.5,
+                "width": 185.4375,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "the complete set of \"inputs"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12EcGY8reo",
+              "width": 186,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12uiXtHVtv": {
+          "id": "12uiXtHVtv",
+          "guid": "12uiXtHVtv",
+          "created": "2018-11-28T23:48:44.497Z",
+          "lastUpdated": "2018-11-28T23:48:44.497Z",
+          "rects": {
+            "0": {
+              "left": 549.921875,
+              "top": 5981.5,
+              "right": 656.734375,
+              "bottom": 5999.5,
+              "width": 106.8125,
+              "height": 18
+            },
+            "1": {
+              "left": 15,
+              "top": 6003.5,
+              "right": 229.546875,
+              "bottom": 6021.5,
+              "width": 214.546875,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "complete\nset of ",
+              "rect": {
+                "left": 549.921875,
+                "top": 5981.5,
+                "right": 656.734375,
+                "bottom": 5999.5,
+                "width": 106.8125,
+                "height": 18
+              }
+            },
+            "1": {
+              "text": "computational resources (data)",
+              "rect": {
+                "left": 15,
+                "top": 6003.5,
+                "right": 229.546875,
+                "bottom": 6021.5,
+                "width": 214.546875,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "complete set of computational resources (data)"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1GGkhD4rGu",
+              "width": 641,
+              "height": 40,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12Gsbrevib": {
+          "id": "12Gsbrevib",
+          "guid": "12Gsbrevib",
+          "created": "2018-11-28T23:48:59.624Z",
+          "lastUpdated": "2018-11-28T23:48:59.624Z",
+          "rects": {
+            "0": {
+              "left": 15,
+              "top": 6063.5,
+              "right": 122.25,
+              "bottom": 6081.5,
+              "width": 107.25,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "One of the keys",
+              "rect": {
+                "left": 15,
+                "top": 6063.5,
+                "right": 122.25,
+                "bottom": 6081.5,
+                "width": 107.25,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "One of the keys"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12tLFJdwSs",
+              "width": 107,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12nW3i7fmo": {
+          "id": "12nW3i7fmo",
+          "guid": "12nW3i7fmo",
+          "created": "2018-11-28T23:49:03.587Z",
+          "lastUpdated": "2018-11-28T23:49:03.587Z",
+          "rects": {
+            "0": {
+              "left": 285.015625,
+              "top": 6066.5,
+              "right": 300.3125,
+              "bottom": 6081.5,
+              "width": 15.296875,
+              "height": 15
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "db",
+              "rect": {
+                "left": 285.015625,
+                "top": 6066.5,
+                "right": 300.3125,
+                "bottom": 6081.5,
+                "width": 15.296875,
+                "height": 15
+              }
+            }
+          },
+          "text": {
+            "TEXT": "db"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12tLJjC9jT",
+              "width": 15,
+              "height": 15,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12cnN5YC4a": {
+          "id": "12cnN5YC4a",
+          "guid": "12cnN5YC4a",
+          "created": "2018-11-28T23:49:07.382Z",
+          "lastUpdated": "2018-11-28T23:49:07.382Z",
+          "rects": {
+            "0": {
+              "left": 369.984375,
+              "top": 6063.5,
+              "right": 413.21875,
+              "bottom": 6081.5,
+              "width": 43.234375,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "will be",
+              "rect": {
+                "left": 369.984375,
+                "top": 6063.5,
+                "right": 413.21875,
+                "bottom": 6081.5,
+                "width": 43.234375,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "will be"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1VZ6Dbt9WA",
+              "width": 43,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12EDNRKDdz": {
+          "id": "12EDNRKDdz",
+          "guid": "12EDNRKDdz",
+          "created": "2018-11-28T23:49:10.094Z",
+          "lastUpdated": "2018-11-28T23:49:10.094Z",
+          "rects": {
+            "0": {
+              "left": 506.296875,
+              "top": 6066.5,
+              "right": 552.203125,
+              "bottom": 6081.5,
+              "width": 45.90625,
+              "height": 15
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "app-db",
+              "rect": {
+                "left": 506.296875,
+                "top": 6066.5,
+                "right": 552.203125,
+                "bottom": 6081.5,
+                "width": 45.90625,
+                "height": 15
+              }
+            }
+          },
+          "text": {
+            "TEXT": "app-db"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1EkRdCWF5z",
+              "width": 45,
+              "height": 15,
               "rel": "screenshot"
             }
           },

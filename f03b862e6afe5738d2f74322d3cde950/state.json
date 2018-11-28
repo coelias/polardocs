@@ -8,12 +8,24 @@
     "properties": {},
     "archived": false,
     "flagged": false,
-    "tags": {},
+    "tags": {
+      "clojurescript": {
+        "id": "clojurescript",
+        "label": "clojurescript"
+      }
+    },
     "nrPages": 214,
     "fingerprint": "f03b862e6afe5738d2f74322d3cde950",
     "added": "2018-10-17T20:58:44.922Z",
     "filename": "clojurescript-unraveled.pdf",
-    "lastUpdated": "2018-10-17T21:14:19.714Z"
+    "lastUpdated": "2018-11-28T23:57:35.277Z",
+    "nrComments": 0,
+    "nrNotes": 0,
+    "nrFlashcards": 0,
+    "nrTextHighlights": 3,
+    "nrAreaHighlights": 0,
+    "nrAnnotations": 3,
+    "uuid": "609c6ce0-f369-11e8-bf15-1731459decd0"
   },
   "pageMetas": {
     "1": {
