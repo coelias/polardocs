@@ -1,0 +1,48 @@
+{
+  "annotationInfo": {},
+  "version": 2,
+  "attachments": {},
+  "docInfo": {
+    "progress": 0,
+    "pagemarkType": "SINGLE_COLUMN",
+    "properties": {},
+    "archived": false,
+    "flagged": false,
+    "tags": {
+      "clojure": {
+        "id": "clojure",
+        "label": "clojure"
+      }
+    },
+    "nrPages": 1,
+    "fingerprint": "14XDcPtPeMCRjpM7et8p",
+    "added": "2018-11-28T23:56:46.281Z",
+    "filename": "154228wRCV-re_frame_Interceptors_md_at_master___Day8_re_frame___GitHub.phz",
+    "lastUpdated": "2018-11-28T23:59:35.119Z",
+    "nrAnnotations": 0,
+    "nrAreaHighlights": 0,
+    "nrComments": 0,
+    "nrFlashcards": 0,
+    "nrNotes": 0,
+    "nrTextHighlights": 0,
+    "title": "re-frame: Interceptors",
+    "url": "https://github.com/Day8/re-frame/blob/master/docs/Interceptors.md",
+    "uuid": "a80ab5f0-f369-11e8-bf15-1731459decd0"
+  },
+  "pageMetas": {
+    "1": {
+      "pagemarks": {},
+      "notes": {},
+      "comments": {},
+      "questions": {},
+      "flashcards": {},
+      "textHighlights": {},
+      "areaHighlights": {},
+      "screenshots": {},
+      "thumbnails": {},
+      "pageInfo": {
+        "num": 1
+      }
+    }
+  }
+}
