@@ -31,3 +31,131 @@ TypeError: Error processing argument at index 0, conversion failure from #<WebCo
     at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
     at Object.onceWrapper (events.js:273:13)
     at WebContents.emit (events.js:187:15)
+[2018-12-20T21:25:02.221Z] [error] [error] [1.0.14] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+[2018-12-20T21:25:02.222Z] [error] [error] [1.0.14] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+[2018-12-20T21:25:02.224Z] [error] [error] [1.0.14] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+[2018-12-20T21:25:02.225Z] [error] [error] [1.0.14] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+[2018-12-20T21:25:02.278Z] [error] [error] [1.0.14] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+[2018-12-20T21:31:13.116Z] [error] [error] [1.5.1] [DiskDatastore.js] Datastore does not contain document: 32fe71ede9a2965eb7921b7119e66735
+[2018-12-21T19:12:51.356Z] [error] [error] [1.5.1] [DiskDatastore.js] Datastore does not contain document: 12QNQ8Yv4cZmW7VxAjJS
+[2018-12-23T22:21:57.788Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+    at WebContents.EventEmitter.emit (domain.js:442:20)
+    at WebContents.emitter.emit.args [as emit] (/Applications/Polar Bookshelf.app/Contents/Resources/app.asar/node_modules/@sentry/electron/dist/main/integrations/electron.js:50:20)
+    at WebContents.topLevelDomainCallback (domain.js:121:23)
+[2018-12-23T22:22:00.481Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+    at WebContents.EventEmitter.emit (domain.js:442:20)
+    at WebContents.emitter.emit.args [as emit] (/Applications/Polar Bookshelf.app/Contents/Resources/app.asar/node_modules/@sentry/electron/dist/main/integrations/electron.js:50:20)
+    at WebContents.topLevelDomainCallback (domain.js:121:23)
+[2018-12-23T22:22:01.682Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+    at WebContents.EventEmitter.emit (domain.js:442:20)
+    at WebContents.emitter.emit.args [as emit] (/Applications/Polar Bookshelf.app/Contents/Resources/app.asar/node_modules/@sentry/electron/dist/main/integrations/electron.js:50:20)
+    at WebContents.topLevelDomainCallback (domain.js:121:23)
+[2018-12-23T22:22:02.360Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+    at WebContents.EventEmitter.emit (domain.js:442:20)
+    at WebContents.emitter.emit.args [as emit] (/Applications/Polar Bookshelf.app/Contents/Resources/app.asar/node_modules/@sentry/electron/dist/main/integrations/electron.js:50:20)
+    at WebContents.topLevelDomainCallback (domain.js:121:23)
+[2018-12-23T22:22:02.986Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+    at WebContents.EventEmitter.emit (domain.js:442:20)
+    at WebContents.emitter.emit.args [as emit] (/Applications/Polar Bookshelf.app/Contents/Resources/app.asar/node_modules/@sentry/electron/dist/main/integrations/electron.js:50:20)
+    at WebContents.topLevelDomainCallback (domain.js:121:23)
+[2018-12-23T22:27:29.534Z] [error] [error] [1.5.1] [TextHighlightController.js] Unable to create text highlight DOMException {
+  stack:
+   'Error: Failed to execute \'getRangeAt\' on \'Selection\': 0 is not a valid index.' }
+[2018-12-28T23:04:08.925Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+[2018-12-28T23:04:08.929Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+[2018-12-28T23:04:08.940Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+[2018-12-28T23:04:08.942Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+[2018-12-28T23:04:08.944Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+[2018-12-28T23:04:08.947Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+[2018-12-28T23:04:08.948Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)
+[2018-12-28T23:04:08.951Z] [error] [error] [1.5.1] [MainApp.ts] Uncaught exception: 
+TypeError: Error processing argument at index 0, conversion failure from #<WebContents>
+    at detachGuest (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:283:18)
+    at WebContents.guest.once (/Applications/Polar Bookshelf.app/Contents/Resources/electron.asar/browser/guest-view-manager.js:88:7)
+    at Object.onceWrapper (events.js:273:13)
+    at WebContents.emit (events.js:187:15)

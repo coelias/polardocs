@@ -18,16 +18,16 @@
     "fingerprint": "14XDcPtPeMCRjpM7et8p",
     "added": "2018-11-28T23:56:46.281Z",
     "filename": "154228wRCV-re_frame_Interceptors_md_at_master___Day8_re_frame___GitHub.phz",
-    "lastUpdated": "2018-11-28T23:59:35.119Z",
-    "nrAnnotations": 0,
+    "lastUpdated": "2018-12-23T23:50:40.575Z",
+    "nrAnnotations": 9,
     "nrAreaHighlights": 0,
     "nrComments": 0,
     "nrFlashcards": 0,
     "nrNotes": 0,
-    "nrTextHighlights": 0,
+    "nrTextHighlights": 9,
     "title": "re-frame: Interceptors",
     "url": "https://github.com/Day8/re-frame/blob/master/docs/Interceptors.md",
-    "uuid": "a80ab5f0-f369-11e8-bf15-1731459decd0"
+    "uuid": "z2018-12-23T23:50:40.576Z+000009-935664433398"
   },
   "pageMetas": {
     "1": {
@@ -36,7 +36,527 @@
       "comments": {},
       "questions": {},
       "flashcards": {},
-      "textHighlights": {},
+      "textHighlights": {
+        "1JnBdMXEDE": {
+          "id": "1JnBdMXEDE",
+          "guid": "1JnBdMXEDE",
+          "created": "2018-12-23T23:29:27.936Z",
+          "lastUpdated": "2018-12-23T23:29:27.936Z",
+          "rects": {
+            "0": {
+              "left": 102.0625,
+              "top": 445.5,
+              "right": 592.203125,
+              "bottom": 463.5,
+              "width": 490.140625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "can look after \"cross-cutting\" concerns like undo, tracing and validation",
+              "rect": {
+                "left": 102.0625,
+                "top": 445.5,
+                "right": 592.203125,
+                "bottom": 463.5,
+                "width": 490.140625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "can look after \"cross-cutting\" concerns like undo, tracing and validation"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1eu9GayZxe",
+              "width": 490,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12GER9v3i9": {
+          "id": "12GER9v3i9",
+          "guid": "12GER9v3i9",
+          "created": "2018-12-23T23:29:45.795Z",
+          "lastUpdated": "2018-12-23T23:29:45.795Z",
+          "rects": {
+            "0": {
+              "left": 15,
+              "top": 467.5,
+              "right": 288.515625,
+              "bottom": 485.5,
+              "width": 273.515625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "factor out commonality, hide complexity",
+              "rect": {
+                "left": 15,
+                "top": 467.5,
+                "right": 288.515625,
+                "bottom": 485.5,
+                "width": 273.515625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "factor out commonality, hide complexity"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1LPpFSecyp",
+              "width": 274,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12czJkWSuo": {
+          "id": "12czJkWSuo",
+          "guid": "12czJkWSuo",
+          "created": "2018-12-23T23:30:14.886Z",
+          "lastUpdated": "2018-12-23T23:30:14.886Z",
+          "rects": {
+            "0": {
+              "left": 289.234375,
+              "top": 565.5,
+              "right": 711.28125,
+              "bottom": 583.5,
+              "width": 422.046875,
+              "height": 18
+            },
+            "1": {
+              "left": 15,
+              "top": 587.5,
+              "right": 90.15625,
+              "bottom": 605.5,
+              "width": 75.15625,
+              "height": 18
+            },
+            "2": {
+              "left": 95.15625,
+              "top": 590.5,
+              "right": 156.359375,
+              "bottom": 605.5,
+              "width": 61.203125,
+              "height": 15
+            },
+            "3": {
+              "left": 161.359375,
+              "top": 587.5,
+              "right": 166.84375,
+              "bottom": 605.5,
+              "width": 5.484375,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "provide the mechanism by which\nevent handlers are executed ",
+              "rect": {
+                "left": 289.234375,
+                "top": 565.5,
+                "right": 711.28125,
+                "bottom": 583.5,
+                "width": 422.046875,
+                "height": 18
+              }
+            },
+            "1": {
+              "text": "(when you ",
+              "rect": {
+                "left": 15,
+                "top": 587.5,
+                "right": 90.15625,
+                "bottom": 605.5,
+                "width": 75.15625,
+                "height": 18
+              }
+            },
+            "2": {
+              "text": "dispatch",
+              "rect": {
+                "left": 95.15625,
+                "top": 590.5,
+                "right": 156.359375,
+                "bottom": 605.5,
+                "width": 61.203125,
+                "height": 15
+              }
+            },
+            "3": {
+              "text": ")",
+              "rect": {
+                "left": 161.359375,
+                "top": 587.5,
+                "right": 166.84375,
+                "bottom": 605.5,
+                "width": 5.484375,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "provide the mechanism by which event handlers are executed (when you dispatch)"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12k5tVp8AJ",
+              "width": 696,
+              "height": 42,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12hDWsmfQu": {
+          "id": "12hDWsmfQu",
+          "guid": "12hDWsmfQu",
+          "created": "2018-12-23T23:30:24.837Z",
+          "lastUpdated": "2018-12-23T23:30:24.837Z",
+          "rects": {
+            "0": {
+              "left": 53.03125,
+              "top": 685.25,
+              "right": 86.828125,
+              "bottom": 703.25,
+              "width": 33.796875,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "wrap",
+              "rect": {
+                "left": 53.03125,
+                "top": 685.25,
+                "right": 86.828125,
+                "bottom": 703.25,
+                "width": 33.796875,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "wrap"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:12K1PUJfTP",
+              "width": 34,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12X6ov5C47": {
+          "id": "12X6ov5C47",
+          "guid": "12X6ov5C47",
+          "created": "2018-12-23T23:32:12.275Z",
+          "lastUpdated": "2018-12-23T23:32:12.275Z",
+          "rects": {
+            "0": {
+              "left": 55.171875,
+              "top": 1300.75,
+              "right": 475.328125,
+              "bottom": 1318.75,
+              "width": 420.15625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "It flows through the pipeline being progressively transformed.",
+              "rect": {
+                "left": 55.171875,
+                "top": 1300.75,
+                "right": 475.328125,
+                "bottom": 1318.75,
+                "width": 420.15625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "It flows through the pipeline being progressively transformed."
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1JHWry79bD",
+              "width": 420,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1pJEPSK2fL": {
+          "id": "1pJEPSK2fL",
+          "guid": "1pJEPSK2fL",
+          "created": "2018-12-23T23:32:43.302Z",
+          "lastUpdated": "2018-12-23T23:32:43.302Z",
+          "rects": {
+            "0": {
+              "left": 131.21875,
+              "top": 1436.75,
+              "right": 414.734375,
+              "bottom": 1454.75,
+              "width": 283.515625,
+              "height": 18
+            },
+            "1": {
+              "left": 419.734375,
+              "top": 1439.75,
+              "right": 488.59375,
+              "bottom": 1454.75,
+              "width": 68.859375,
+              "height": 15
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "orwards sweep progressively creates the ",
+              "rect": {
+                "left": 131.21875,
+                "top": 1436.75,
+                "right": 414.734375,
+                "bottom": 1454.75,
+                "width": 283.515625,
+                "height": 18
+              }
+            },
+            "1": {
+              "text": "coeffects",
+              "rect": {
+                "left": 419.734375,
+                "top": 1439.75,
+                "right": 488.59375,
+                "bottom": 1454.75,
+                "width": 68.859375,
+                "height": 15
+              }
+            }
+          },
+          "text": {
+            "TEXT": "orwards sweep progressively creates the coeffects"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1mXeb8D46U",
+              "width": 357,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12rXEk1i74": {
+          "id": "12rXEk1i74",
+          "guid": "12rXEk1i74",
+          "created": "2018-12-23T23:32:47.012Z",
+          "lastUpdated": "2018-12-23T23:32:47.012Z",
+          "rects": {
+            "0": {
+              "left": 126.03125,
+              "top": 1436.75,
+              "right": 131.21875,
+              "bottom": 1454.75,
+              "width": 5.1875,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "f",
+              "rect": {
+                "left": 126.03125,
+                "top": 1436.75,
+                "right": 131.21875,
+                "bottom": 1454.75,
+                "width": 5.1875,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "f"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1nHtrYWr7E",
+              "width": 5,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "12mCGuNQ4y": {
+          "id": "12mCGuNQ4y",
+          "guid": "12mCGuNQ4y",
+          "created": "2018-12-23T23:32:50.897Z",
+          "lastUpdated": "2018-12-23T23:32:50.897Z",
+          "rects": {
+            "0": {
+              "left": 80.609375,
+              "top": 1458.75,
+              "right": 307.359375,
+              "bottom": 1476.75,
+              "width": 226.75,
+              "height": 18
+            },
+            "1": {
+              "left": 312.359375,
+              "top": 1461.75,
+              "right": 365.90625,
+              "bottom": 1476.75,
+              "width": 53.546875,
+              "height": 15
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "backwards sweep processes the ",
+              "rect": {
+                "left": 80.609375,
+                "top": 1458.75,
+                "right": 307.359375,
+                "bottom": 1476.75,
+                "width": 226.75,
+                "height": 18
+              }
+            },
+            "1": {
+              "text": "effects",
+              "rect": {
+                "left": 312.359375,
+                "top": 1461.75,
+                "right": 365.90625,
+                "bottom": 1476.75,
+                "width": 53.546875,
+                "height": 15
+              }
+            }
+          },
+          "text": {
+            "TEXT": "backwards sweep processes the effects"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1CiZRY6A47",
+              "width": 284,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        },
+        "1m591MuNJa": {
+          "id": "1m591MuNJa",
+          "guid": "1m591MuNJa",
+          "created": "2018-12-23T23:50:40.119Z",
+          "lastUpdated": "2018-12-23T23:50:40.119Z",
+          "rects": {
+            "0": {
+              "left": 27.640625,
+              "top": 3334.5,
+              "right": 96.5,
+              "bottom": 3349.5,
+              "width": 68.859375,
+              "height": 15
+            },
+            "1": {
+              "left": 101.5,
+              "top": 3331.5,
+              "right": 459.5625,
+              "bottom": 3349.5,
+              "width": 358.0625,
+              "height": 18
+            }
+          },
+          "textSelections": {
+            "0": {
+              "text": "coeffects",
+              "rect": {
+                "left": 27.640625,
+                "top": 3334.5,
+                "right": 96.5,
+                "bottom": 3349.5,
+                "width": 68.859375,
+                "height": 15
+              }
+            },
+            "1": {
+              "text": " will contain the inputs required by the event handler",
+              "rect": {
+                "left": 101.5,
+                "top": 3331.5,
+                "right": 459.5625,
+                "bottom": 3349.5,
+                "width": 358.0625,
+                "height": 18
+              }
+            }
+          },
+          "text": {
+            "TEXT": "coeffects will contain the inputs required by the event handler"
+          },
+          "images": {
+            "screenshot": {
+              "type": "png",
+              "src": "screenshot:1ufYXQZwCz",
+              "width": 432,
+              "height": 18,
+              "rel": "screenshot"
+            }
+          },
+          "notes": {},
+          "questions": {},
+          "flashcards": {},
+          "color": "red"
+        }
+      },
       "areaHighlights": {},
       "screenshots": {},
       "thumbnails": {},

@@ -3,7 +3,7 @@
   "version": 2,
   "attachments": {},
   "docInfo": {
-    "progress": 0,
+    "progress": 0.6361102133160956,
     "pagemarkType": "SINGLE_COLUMN",
     "properties": {},
     "archived": false,
@@ -18,7 +18,7 @@
     "fingerprint": "157uMmcQN6qR9Zx2pDZ5",
     "added": "2018-11-27T23:41:27.059Z",
     "filename": "12dqVSDcWE-re_frame_EffectfulHandlers_md_at_master___Day8_re_frame___GitHub.phz",
-    "lastUpdated": "2018-11-28T23:59:14.338Z",
+    "lastUpdated": "2018-12-23T22:36:17.181Z",
     "nrAnnotations": 75,
     "nrAreaHighlights": 0,
     "nrComments": 0,
@@ -27,11 +27,28 @@
     "nrTextHighlights": 75,
     "title": "re-frame: EffectfulHandlers",
     "url": "https://github.com/Day8/re-frame/blob/master/docs/EffectfulHandlers.md",
-    "uuid": "9ba7c820-f369-11e8-bf15-1731459decd0"
+    "uuid": "z2018-12-23T22:36:17.181Z+000062-001347542855"
   },
   "pageMetas": {
     "1": {
-      "pagemarks": {},
+      "pagemarks": {
+        "1thivdXmvF": {
+          "id": "1thivdXmvF",
+          "created": "2018-12-23T22:18:34.930Z",
+          "lastUpdated": "2018-12-23T22:18:34.930Z",
+          "type": "SINGLE_COLUMN",
+          "percentage": 0.6361102133160956,
+          "column": 0,
+          "rect": {
+            "left": 0,
+            "top": 0,
+            "width": 100,
+            "height": 0.6361102133160956
+          },
+          "notes": {},
+          "mode": "READ"
+        }
+      },
       "notes": {},
       "comments": {},
       "questions": {},
